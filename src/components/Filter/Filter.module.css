@@ -10,6 +10,8 @@
 
 .inputLabel {
   width: 150px;
+  height: 20px;
+  font-size: medium;
   margin-bottom: 15px;
   margin-top: 5px;
   border: 1px solid rgb(37, 35, 37);
