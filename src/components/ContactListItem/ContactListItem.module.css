@@ -1,0 +1,17 @@
+.listItem {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin-left: auto;
+  width: 80px;
+  height: 25px;
+  border: 1px solid rgb(37, 35, 37);
+  border-radius: 5px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #b6b9c3;
+}

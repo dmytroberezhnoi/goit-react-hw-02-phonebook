@@ -1,0 +1,17 @@
+.filterLabel {
+  margin-left: 20px;
+
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+
+  font-size: medium;
+}
+
+.inputLabel {
+  width: 150px;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  border: 1px solid rgb(37, 35, 37);
+  border-radius: 5px;
+}
